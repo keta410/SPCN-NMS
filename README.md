@@ -391,7 +391,7 @@ $ apt-get install snmp snmpd libsnmp-dev
 
         _ตัวอย่างการแก้ไข_
         ```
-        #Views 
+        #Views
         #arguments viewname included [oid]
         #system + hrSystem groups only
         view   systemonly  included   .1.3.6.1.2.1.1
